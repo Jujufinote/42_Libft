@@ -9,12 +9,12 @@ This project enable exercising on five capital skills : analisation of alphanume
 <br>
 <br>
 
-## Mandatory part
+## 📜 Mandatory part
 The mandatory part is the necessary portion to success any project. Here, you'll brush up on some of the basic fonctions already learned in 42pool and recreate some fonctions of the standard library of C language. One goal is to learn basic operations on and with a static library and the other to work your logic and vision of C language with the fonctions asked.
 <br>
 <br>
 
-## Bonus part
+## ✅ Bonus part
 This part will help and encourage you to discover the linked lists. They're an important skill that will allow you to organise and stock different variable's types at the same time and accessing at all of them. You'll need them in the future and it's a difficult concept for many people, so the sooner you start to learn and undertand them, the faster you will comprehend them when the time comes to use the linked lists.
 <br>
 <br>
@@ -22,7 +22,7 @@ This part will help and encourage you to discover the linked lists. They're an i
 
 ---
 
-## How to use step by step :
+## ⚙️ How to use step by step :
 First, I gave you in this repository, for every fonction, a main tester, an explanation of the principle, tips and an example fonction (my version). I put some help for understanding the Makefile if you still have some difficulties and give you an example file. And finally, a main program to test all your project and verify if your library compiles and works correctly.
 <br>
 <br>
@@ -40,7 +40,7 @@ _waiting for update_
 
 ---
 
-## Fontions list
+## 🗒️ Fontions list
 ### Fonctions (1st part 23/23)
 | Name | Prototype | 
 |---|---|
