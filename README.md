@@ -3,25 +3,25 @@
 <br>
 
 ## Preface
-This project aims to revew projects of the 42pool, revew the principles and logics of the C language. It allows also to create a library of most basic fonctions that you'll can use in some other projects if you want.
+The Libft is the first project intended at 42School. It aims to revew projects of the 42pool and revise the fundamentals of the C language. It allows also to create a library of most basic fonctions that you'll can use in some other projects if you want.
 
-Libft enable exercizing on five capital skills : analization of alphanumeric variables, manipulation and transformation of strings, memory and linked lists, and commands of displaying/writing on file descriptor.
+This project enable exercising on five capital skills : analisation of alphanumeric variables, manipulation and transformation of strings, memory and linked lists, and commands of displaying/writing on file descriptor.
 <br>
 <br>
 
 ## Mandatory part
-The mandatory part is the necessary portion to success any project. Here, you'll brush up on the basic fonctions already learned in 42pool and work on primary fonctions for many programs. And, you will also learn basic operations on and with a static library.
+The mandatory part is the necessary portion to success any project. Here, you'll brush up on some of the basic fonctions already learned in 42pool and recreate some fonctions of the standard library of C language. One goal is to learn basic operations on and with a static library and the other to work your logic and vision of C language with the fonctions asked.
 <br>
 <br>
 
 ## Bonus part
-This part will help and encourage you to discover the linked lists. They're an important skill that will allow you to organize and stock different variable's types at the same time and accessing at all of them. You'll need them in the future and it's a difficult concept for many people, so the sooner you start to learn and undertand them, the faster you will comprehend them when the time comes to use the linked lists.
+This part will help and encourage you to discover the linked lists. They're an important skill that will allow you to organise and stock different variable's types at the same time and accessing at all of them. You'll need them in the future and it's a difficult concept for many people, so the sooner you start to learn and undertand them, the faster you will comprehend them when the time comes to use the linked lists.
 <br>
 <br>
 <br>
 
 ## How to use step by step :
-First, I will give you in this repository, for every fonction, a main tester, an explanation of the principle, tips and an example fonction (my version). I'll also help with understanding the Makefile if you still have some difficulties and give you an example file. And finally, a main program to test all your project and verify if your library compiles and works correctly.
+First, I gave you in this repository, for every fonction, a main tester, an explanation of the principle, tips and an example fonction (my version). I put some help for understanding the Makefile if you still have some difficulties and give you an example file. And finally, a main program to test all your project and verify if your library compiles and works correctly.
 <br>
 <br>
 
