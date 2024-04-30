@@ -20,6 +20,8 @@ This part will help and encourage you to discover the linked lists. They're an i
 <br>
 <br>
 
+---
+
 ## How to use step by step :
 First, I gave you in this repository, for every fonction, a main tester, an explanation of the principle, tips and an example fonction (my version). I put some help for understanding the Makefile if you still have some difficulties and give you an example file. And finally, a main program to test all your project and verify if your library compiles and works correctly.
 <br>
@@ -35,6 +37,8 @@ _waiting for update_
 <br>
 <br>
 <br>
+
+---
 
 ## Fontions list
 ### Fonctions (1st part 23/23)
