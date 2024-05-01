@@ -40,7 +40,7 @@ _waiting for update_
 
 ---
 
-## 🗒️ Fontions list
+## 🗒️ Fontion list
 ### Fonctions (1st part 23/23)
 | Name | Prototype | 
 |---|---|
