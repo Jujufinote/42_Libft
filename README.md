@@ -44,7 +44,7 @@ _waiting for update_
 ### Fonctions (1st part 23/23)
 | Name | Prototype | 
 |---|---|
-| ft_atoi | `int	ft_atoi(const char *nptr)` |
+| [ft_atoi](https://github.com/Jujufinote/42_libft/tree/main/Temporary_organisation/Mandatory/ft_atoi) | `int	ft_atoi(const char *nptr)` |
 | ft_bzero | `void	ft_bzero(void *s, size_t n)` |
 | ft_calloc | `void	*ft_calloc(size_t nmemb, size_t size)` |
 | ft_isalnum | `int	ft_isalnum(int c)` |
