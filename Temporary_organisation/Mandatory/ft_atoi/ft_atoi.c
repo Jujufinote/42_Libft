@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jverdier <jverdier@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jusdepomme <jusdepomme@student.42.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/07 15:07:48 by jverdier          #+#    #+#             */
-/*   Updated: 2024/03/01 10:31:56 by jverdier         ###   ########.fr       */
+/*   Updated: 2024/05/02 17:56:36 by jusdepomme       ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,28 +21,29 @@ static int	ft_isspace(char c)
 
 int	ft_atoi(const char *nptr)
 {
-	int	i;
+	int	nb_nb;
 	int	result;
 	int	sign;
 
-	i = 0;
+	nb_nb = 0;
 	result = 0;
 	sign = 1;
-	while (ft_isspace(nptr[i]) == 1)
-		i++;
-	if (nptr[i] == '-')
+	while (ft_isspace(*nptr) == 1)
+		nptr++;
+	if (*nptr == '-')
 	{
 		sign *= -1;
-		i++;
+		nptr++;
 	}
-	else if (nptr[i] == '+')
-		i++;
-	if (nptr[i] == '+' || nptr[i] == '-')
-		return (result);
-	while (ft_isdigit(nptr[i]) == 1)
+	else if (*nptr == '+')
+		nptr++;
+	while (ft_isdigit(*nptr) == 1)
 	{
-		result = result * 10 + (nptr[i] - 48);
-		i++;
+		result = result * 10 + (*nptr - 48);
+		nptr++;
+		nb_nb++;
 	}
+	if (nb_nb > 20)
+		return (-1);
 	return (result * sign);
 }
