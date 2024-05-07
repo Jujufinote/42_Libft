@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
+#include <stddef.h>
+#include <string.h>
 #include <stdlib.h>
 
 #define TOTAL_TESTS 42
