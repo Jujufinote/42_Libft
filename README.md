@@ -1,4 +1,4 @@
-![cover libft_bonus](https://github.com/Jujufinote/42_badges_and_covers/blob/main/covers/cover-libft-bonus.png)
+![cover libft_bonus](https://github.com/Jujufinote/42-project-badges/blob/main/covers/cover-libft-bonus.png)
 <br>
 <br>
 
