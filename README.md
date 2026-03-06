@@ -23,14 +23,11 @@ This part will help and encourage you to discover linked lists. It will allow yo
 ---
 
 ## ⚙️ How to use step by step :
-_waiting for update_
-<br>
 <br>
 
 >[!WARNING]
 > Do NOT COPY my work without thinking and understanding it, we call that cheating and you don't want that <br>
 > PLEASE LEARN AND MAKE YOUR OWN
-<br>
 
 ### Step 1 :
 _waiting for update_
@@ -99,6 +96,7 @@ _waiting for update_
 | [ft_lstpmap](https://github.com/Jujufinote/42_Libft/tree/main/Libft/Bonus/ft_lstmap) | `t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *))` |
 | [ft_lstnew](https://github.com/Jujufinote/42_Libft/tree/main/Libft/Bonus/ft_lstnew) | `t_list	*ft_lstnew(void *content)` |
 | [ft_lstsize](https://github.com/Jujufinote/42_Libft/tree/main/Libft/Bonus/ft_lstsize) | `int	ft_lstsize(t_list *lst)` |
+
 
 
 
