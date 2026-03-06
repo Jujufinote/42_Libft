@@ -3,15 +3,13 @@
 <br>
 
 ## Preface
-The Libft is the first project intended at 42school. It aims to review functions of the 42pool and fundamentals functions of Standard C Library. It allows also to create a personal library that you'll use as you want and as authorized in some other 42projects.
+The Libft is the first required project of 42school. It aims to review functions of the 42pool and fundamentals functions of Standard C Library. It allows also to create a personal library that you'll use as you want and as authorized in some other 42projects.
 
 This project enable exercising on five capital skills : alphanumeric characters analysis, string manipulation and transformation, memory manipulation, linked lists management, and file descriptor reading/writing.
 <br>
 <br>
 
 ## 📜 Mandatory part
-> The mandatory part is the minimum to succeed any project.
-
 Here, you'll brush up on some basic functions already learned in 42pool and recreate some functions of the standard C library. One goal is to learn basic operations with static libraries and the other to work your logic and vision of C language.
 <br>
 <br>
@@ -100,5 +98,6 @@ _waiting for update_
 | [ft_lstpmap](https://github.com/Jujufinote/42_Libft/tree/main/Libft/Bonus/ft_lstmap) | `t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *))` |
 | [ft_lstnew](https://github.com/Jujufinote/42_Libft/tree/main/Libft/Bonus/ft_lstnew) | `t_list	*ft_lstnew(void *content)` |
 | [ft_lstsize](https://github.com/Jujufinote/42_Libft/tree/main/Libft/Bonus/ft_lstsize) | `int	ft_lstsize(t_list *lst)` |
+
 
 
