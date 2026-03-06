@@ -42,7 +42,8 @@ _waiting for update_
 
 ## 🗒️ Funtion list
 
-> _Alphabetical order_
+>[!NOTE]
+> _List in alphabetical order_
 
 ### Functions (1st part 23/23)
 | Name | Prototype | 
@@ -98,6 +99,7 @@ _waiting for update_
 | [ft_lstpmap](https://github.com/Jujufinote/42_Libft/tree/main/Libft/Bonus/ft_lstmap) | `t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *))` |
 | [ft_lstnew](https://github.com/Jujufinote/42_Libft/tree/main/Libft/Bonus/ft_lstnew) | `t_list	*ft_lstnew(void *content)` |
 | [ft_lstsize](https://github.com/Jujufinote/42_Libft/tree/main/Libft/Bonus/ft_lstsize) | `int	ft_lstsize(t_list *lst)` |
+
 
 
 
